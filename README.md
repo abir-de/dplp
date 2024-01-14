@@ -1,9 +1,5 @@
 # Differentially Private link prediction with protected connections
 
-Note that re-running the scripts will generate new training test splits and new instances of different randomizations. Therefore, successive runs may give slightly different numbers.
-However, we uploaded all intermediate files which would lead to the numbers reported in the paper, at URL https://rebrand.ly/dplp 
-Due to the upper limit on upload size, we are not uploading those intermediate pickle files with this material.
-
 ## Pre-requisites
 
 This code depends on the following packages:
